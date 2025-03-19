@@ -1,0 +1,4 @@
+name = Open Data/Information Page Search
+description = Adds the content type search filter of open data or open information when using the search on either page.
+core = 7.x
+package = Bizont
